@@ -2,8 +2,13 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seungwoo%20Github!&fontSize=70" />	
 </div>
 <div align=center>
+	<h2> 👋 Introduction 👋 </h2>
+	<p> 안녕하세요! front-end개발자를 꿈꾸는 이승우입니다! </p>
+</div>
+<br>
+<div align=center>
 	<h2>📚 Tech Stack 📚</h3>
-	<h3>✨ Platforms & Languages ✨</h3>
+	<h3>✨ Studying Platforms & Languages ✨</h3>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 
@@ -48,5 +53,10 @@
 <h3>🏆 Baekjoon solved rank 🏆</h3>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oltmddn123)](https://solved.ac/oltmddn123)
-<img src="http://mazandi.herokuapp.com/api?handle={oltmddn123}&theme=warm"/>
+</div>
+
+<div align=center>
+<h3>📖 Git 📖</h3>
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungwoo-project&hide=contribs,prs&show_icons=true&theme=graywhite)
 </div>
