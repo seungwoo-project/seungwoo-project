@@ -2,8 +2,8 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seungwoo%20Github!&fontSize=70" />	
 </div>
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<h2>📚 Tech Stack 📚</h3>
+	<h3>✨ Platforms & Languages ✨</h3>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 
@@ -20,7 +20,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h3>🛠 Tools 🛠</h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -31,7 +31,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<h3>🎨 SNS & Portfolio 🎨</h3>
 </div>
 <div align=center>
 	<a href="https://velog.io/@oltmddn123">
@@ -44,7 +44,7 @@
 </div>
 <br>
 <div align=center>
-<p>🏆 Baekjoon solved rank 🏆</p>
+<h3>🏆 Baekjoon solved rank 🏆</h3>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oltmddn123)](https://solved.ac/oltmddn123)
 </div>
