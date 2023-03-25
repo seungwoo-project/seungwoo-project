@@ -48,4 +48,5 @@
 <h3>🏆 Baekjoon solved rank 🏆</h3>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oltmddn123)](https://solved.ac/oltmddn123)
+<img src="http://mazandi.herokuapp.com/api?handle={oltmddn123}&theme=warm"/>
 </div>
