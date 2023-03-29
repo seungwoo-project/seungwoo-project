@@ -3,7 +3,7 @@
 </div>
 <div align=center>
 	<h2> 👋 Introduction 👋 </h2>
-	<p> 안녕하세요! front-end개발자를 꿈꾸는 이승우입니다! </p>
+	<p> 안녕하세요! frontend engineer를 꿈꾸는 이승우입니다! </p>
 </div>
 <br>
 <div align=center>
