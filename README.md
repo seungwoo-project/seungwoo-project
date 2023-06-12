@@ -1,9 +1,9 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seungwoo%20Github!&fontSize=70" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dev%20Days&fontSize=70" />	
 </div>
 <div align=center>
 	<h2> 👋 Introduction 👋 </h2>
-	<p> 안녕하세요! frontend engineer를 꿈꾸는 이승우입니다! </p>
+	<p> 안녕하세요! 개발자를 꿈꾸는 이승우입니다! </p>
 </div>
 <br>
 <div align=center>
@@ -21,8 +21,6 @@
 	<br>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
-	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 </div>
 <br>
 <div align=center>
