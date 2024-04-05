@@ -1,6 +1,5 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dev%20Days&fontSize=70" />	
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+
 <div align=center>
 	<h2> 👋 Introduction 👋 </h2>
 	<p> 안녕하세요! 개발자를 꿈꾸는 이승우입니다! </p>
@@ -43,3 +42,5 @@
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungwoo-project&hide=contribs,prs&show_icons=true&theme=graywhite)
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
