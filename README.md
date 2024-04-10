@@ -16,8 +16,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <hr>
 <h3>✨ Project experience ✨</h3>
-<p>• ResNet 인공지능을 이용한 평발진단분류모델 프로젝트 개발, 2023 </p>
-<p>• Java JFrame을 이용한 '종합게임' 프로젝트 개발, 2022.11.09 </p>
+<p>• ResNet 인공지능을 이용한 평발진단분류모델 프로젝트 개발, 2023.05.21 ~ 2023.06.04 </p>
+<p>• Java JFrame을 이용한 '종합게임' 프로젝트 개발, 2022.10.09 ~ 2022.11.09 </p>
 <p>• 스파르타코딩클럽 웹 프로젝트 개발, 2022 </p>
 <hr>
 <h3>✨ School activities ✨</h3>
