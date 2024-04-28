@@ -5,15 +5,17 @@
 <p> 안녕하세요! 의료IT공학을 전공했으며, 2025년 2월 졸업 예정입니다.</p>
 <p> 백엔드 포지션에 관심이 있는 새내기 개발자입니다. </p>
 <hr>
+<h3>✨ Styding ✨</h3>
+
 <h3>✨ Learned Languages ✨</h3>
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 <hr>
 <h3>✨ Project experience ✨</h3>
 <p>• ResNet 인공지능을 이용한 평발진단분류모델 프로젝트 개발, 2023.05.21 ~ 2023.06.04 </p>
