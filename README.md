@@ -3,7 +3,7 @@
 <h3> 👋 Introduction 👋 </h3>
 <!-- 	 -->
 <p> 안녕하세요! 의료IT공학을 전공했으며, 2025년 2월 졸업 예정입니다.</p>
-<p> 백엔드 포지션에 관심이 있는 새내기 개발자입니다. </p>
+<p> 백엔드 포지션에 관심이 있는 주니어 개발자입니다. </p>
 <hr>
 <h3>✨ Styding ✨</h3>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
