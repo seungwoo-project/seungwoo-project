@@ -5,7 +5,7 @@
 <p> 안녕하세요! 의료IT공학을 전공했으며, 2025년 2월 졸업 예정입니다.</p>
 <p> 백엔드 포지션에 관심이 있는 주니어 개발자입니다. </p>
 <hr>
-<h3>✨ Styding ✨</h3>
+<h3>✨ Studyding ✨</h3>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <h3>✨ Learned Languages ✨</h3>
@@ -25,7 +25,7 @@
 <hr>
 <h3>✨ School activities ✨</h3>
 <details>
-  <summary>✨ 성적우수학생 Dean's list 수상 ✨</summary>
+  <summary>✨ 성적우수학생 수상 ✨</summary>
   <ul>
     	<li>(4학년) 2024-1학기 수상</li>
 	<li>(3학년) 2023-1학기, 2학기 수상</li>
